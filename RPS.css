@@ -77,6 +77,10 @@ header > h1 {
     padding: 10px;
     display: inline-block;
     transition: all 0.3s ease;
+    
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+
 }
 
 .choice:hover {
